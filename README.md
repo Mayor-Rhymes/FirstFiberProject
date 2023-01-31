@@ -1,10 +1,10 @@
 # FirstFiberProject
 
 
-#My first fiber project.
+# My first fiber project.
 
 
-###Achievements
+### Achievements
 
 * Decided to use slice data structure for storing data
 * Was able to understand micros (which are basically mini routers)
@@ -14,7 +14,7 @@
 
 
 
-###Next Objective: 
+### Next Objective: 
 
 * Use a database for persistence
 * Connect the backend to a react frontend
