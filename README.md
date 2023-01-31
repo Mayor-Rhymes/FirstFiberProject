@@ -1,5 +1,3 @@
-# FirstFiberProject
-
 
 # My first fiber project.
 
